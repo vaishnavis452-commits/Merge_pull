@@ -2,3 +2,4 @@ This is my first text file.
 My name is Soumya m patil.
 I am learning Git and programming.
 and i am good at learning programming.
+and also i am very intelligent.......😊
